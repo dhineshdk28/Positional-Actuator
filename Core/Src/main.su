@@ -1,0 +1,12 @@
+../Core/Src/main.c:98:5:main	88	static
+../Core/Src/main.c:194:6:SystemClock_Config	88	static
+../Core/Src/main.c:241:13:MX_FDCAN1_Init	8	static
+../Core/Src/main.c:284:13:MX_LPUART1_UART_Init	8	static
+../Core/Src/main.c:331:13:MX_TIM1_Init	56	static
+../Core/Src/main.c:382:13:MX_GPIO_Init	48	static
+../Core/Src/main.c:457:6:HAL_GPIO_EXTI_Callback	32	static,ignoring_inline_asm
+../Core/Src/main.c:499:6:RelayControlTask	16	static
+../Core/Src/main.c:521:6:EncoderTask	24	static
+../Core/Src/main.c:549:6:PIDControllerTask	24	static
+../Core/Src/main.c:643:6:HAL_TIM_PeriodElapsedCallback	16	static
+../Core/Src/main.c:660:6:Error_Handler	4	static,ignoring_inline_asm
